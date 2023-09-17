@@ -1,5 +1,4 @@
 # Sudoku solver using Backtracking Algorithm
-Solving sudoku using CSP backtracking method
 
 
 
